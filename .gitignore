@@ -1,0 +1,24 @@
+# =========================
+# FRONTEND (Vue.js / Node)
+# =========================
+frontend/tarefas-frontend/node_modules/
+frontend/tarefas-frontend/dist/
+frontend/tarefas-frontend/.env
+frontend/tarefas-frontend/.env.*
+
+# =========================
+# BACKEND (Java / Spring Boot)
+# =========================
+backend/jdk-*/
+backend/ControleTarefas/target/
+backend/ControleTarefas/.metadata/
+backend/ControleTarefas/.vscode/
+backend/.vscode/
+*.class
+*.log
+
+# =========================
+# SISTEMA OPERACIONAL
+# =========================
+.DS_Store
+Thumbs.db
